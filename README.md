@@ -1,6 +1,6 @@
 # Memory profiling in pytorch
 
-Code to reproduce the results of [Deep Learning CUDA Memory Usage and Pytorch optimization tricks](https://medium.com/@quentinf/deep-learning-memory-usage-and-pytorch-optimization-tricks-e9cab0ead93)
+Code to reproduce the results of [Deep Learning CUDA Memory Usage and Pytorch optimization tricks](https://www.sicara.ai/blog/2019-28-10-deep-learning-memory-usage-and-pytorch-optimization-tricks)
 
 # Requirements
 - You need a CUDA enabled GPU
